@@ -1,6 +1,6 @@
 {
   "name": "vue-ue-sdk",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "description": "基于vue2实现的ue sdk",
   "main": "index.js",
   "module": "index.js",
@@ -47,10 +47,5 @@
   },
   "peerDependencies": {
     "vue": "2.6.10"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/2025506282/vue-ue-sdk"
-  },
-  "homepage": "https://github.com/2025506282/vue-ue-sdk"
+  }
 }
